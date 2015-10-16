@@ -1,5 +1,5 @@
-name: CIINN
-description: Centro de Investigación e Inovación Nacional
+name: Twister
+description: a powerful jekyll theme
 url: #place url
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
