@@ -1,12 +1,12 @@
+#Si el autor no tiene post creados arroja un error
 -
-  id: someone
-  name: Some Person
+  id: alex
+  name: M. C. Alejandro H. Pineda
   avatar: /profile-pic.jpg
-  bio: this is some more information about the author.
-  facebook: https://www.facebook.com/someone
-  twitter: https://twitter.com/someone
-  instagram: http://instagram.com/someone
-  email: someone@something.com
+  bio: Hare mi propio casino, con juegos de azar y mujersuelas. - Bender, Futurama.
+  facebook: https://www.facebook.com/deathscythe
+  twitter: https://twitter.com/deathscytheh
+  email: ale.hpineda@yahoo.com.mx
 -
   id: person
   avatar: /profile-pic.jpg
